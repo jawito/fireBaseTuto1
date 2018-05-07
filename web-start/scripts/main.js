@@ -18,7 +18,7 @@
 // Initializes FriendlyChat.
 function FriendlyChat() {
   this.checkSetup();
-
+// hola voy a hacer un cambio
   // Shortcuts to DOM Elements.
   this.messageList = document.getElementById('messages');
   this.messageForm = document.getElementById('message-form');
